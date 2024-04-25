@@ -18,6 +18,21 @@ markup:
 
 menu:
   main:
+    - name: EpiUsers ↗
+      url: "https://www.epiusers.help/"
+      weight: 1
+    - name: Epicor ↗
+      url: "https://www.epicor.com/"
+      weight: 1
+    - name: EpicCare ↗
+      url: "https://epiccare.epicor.com//"
+      weight: 1
+    - name: EpicWeb ↗
+      url: "https://epicweb.epicor.com/"
+      weight: 1
+    - name: Epicor Ideas ↗
+      url: "https://epicor-manufacturing.ideas.aha.io/"
+      weight: 1
     - name: Docs
       pageRef: /docs
       weight: 1
@@ -40,10 +55,10 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
 
   footer:
-    displayCopyright: false
+    displayCopyright: true
     displayPoweredBy: true
 
   editURL:
