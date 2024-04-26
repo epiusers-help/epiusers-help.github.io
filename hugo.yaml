@@ -23,31 +23,28 @@ menu:
       weight: 1
     - name: Epicor ↗
       url: "https://www.epicor.com/"
-      weight: 1
+      weight: 2
     - name: EpicCare ↗
       url: "https://epiccare.epicor.com//"
-      weight: 1
+      weight: 3
     - name: EpicWeb ↗
       url: "https://epicweb.epicor.com/"
-      weight: 1
+      weight: 4
     - name: Epicor Ideas ↗
       url: "https://epicor-manufacturing.ideas.aha.io/"
-      weight: 1
+      weight: 5
     - name: Docs
       pageRef: /docs
-      weight: 1
+      weight: 6
     - name: About
       pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/epicusers-help"
-      weight: 3
+      weight: 7
     - name: Search
-      weight: 4
+      weight: 8
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 9
       url: "https://github.com/epiusers-help/epiusers-help.github.io"
       params:
         icon: github
