@@ -1,6 +1,8 @@
 ---
 title: Wiki
-next: first-page
+type: docs
+sidebar:
+  open: true
 ---
 
 # How to use this Wiki
