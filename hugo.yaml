@@ -31,7 +31,7 @@ menu:
       url: "https://epicweb.epicor.com/"
       weight: 4
     - name: Epicor Ideas ↗
-      url: "https://epicor-manufacturing.ideas.aha.io/"
+      url: "https://epicor.ideas.aha.io/"
       weight: 5
     - name: Docs
       pageRef: /docs
