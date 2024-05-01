@@ -33,14 +33,17 @@ menu:
     - name: Epicor Ideas ↗
       url: "https://epicor.ideas.aha.io/"
       weight: 5
+    - name: Epicor Users Group ↗
+      url: "https://www.epicorusers.org/"
+      weight: 6
     - name: Docs
       pageRef: /docs
-      weight: 6
+      weight: 7
     - name: About
       pageRef: /about
-      weight: 7
-    - name: Search
       weight: 8
+    - name: Search
+      weight: 9
       params:
         type: search
     - name: GitHub
