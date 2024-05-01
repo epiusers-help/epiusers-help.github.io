@@ -1,5 +1,5 @@
 ---
-title: Application Studio
+title: Tags
 type: taxonomy
 sidebar:
   open: true
