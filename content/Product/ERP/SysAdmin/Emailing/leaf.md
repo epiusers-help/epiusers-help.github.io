@@ -1,10 +1,10 @@
 ---
-title: Business Activity Query
+title: Emailing Page
 type: docs
 categories:
-- BAQ
+- System
 tags: 
-- coding
+- Email
 ---
 
 This page is under a folder.

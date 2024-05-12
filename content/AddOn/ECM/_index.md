@@ -1,12 +1,8 @@
 ---
-title: Business Activity Query
+title: ECM
 type: docs
 sidebar:
   open: true
-categories:
-- BAQ
-tags: 
-- coding
 ---
 
 Pages can be organized into folders.

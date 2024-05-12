@@ -1,10 +1,10 @@
 ---
-title: Customization Page
+title: Application Studio
 type: docs
 categories:
-- Development
+- "Application Studio"
 tags: 
-- coding
+- layers
 ---
 
 This page is under a folder.
